@@ -17,7 +17,7 @@ mutation, sequencing error, and allele mixing.
 ## Conceptual Overview
 
 ![SHAPE-MaP structure-probing concept and its MIRAGE
-parameterization.](figures/SHAPE_MaP_concept.png)
+parameterization.](figures/SHAPE_MaP_concept.svg)
 
 SHAPE-MaP structure-probing concept and its MIRAGE parameterization.
 

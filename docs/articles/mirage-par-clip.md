@@ -17,7 +17,7 @@ candidate site; the matched control is a mock or input library.
 ## Conceptual Overview
 
 ![PAR-CLIP concept and its MIRAGE
-parameterization.](figures/PARCLIP_concept.png)
+parameterization.](figures/PARCLIP_concept.svg)
 
 PAR-CLIP concept and its MIRAGE parameterization.
 

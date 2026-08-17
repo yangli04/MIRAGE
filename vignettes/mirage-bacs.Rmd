@@ -32,6 +32,12 @@ Because β is expressed on the molecule scale after removing background,
 sequencing error, and allele mixing, MIRAGE returns an absolute modification
 level without a synthetic calibration curve.
 
+## Conceptual Overview
+
+```{r bacs-concept, echo=FALSE, out.width="86%", fig.cap="BACS pseudouridine readout and its MIRAGE parameterization."}
+knitr::include_graphics("figures/BACS_concept.svg")
+```
+
 ## The Example Data
 
 The package ships a small, complete count table built from public HeLa BACS

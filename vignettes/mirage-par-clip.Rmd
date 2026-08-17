@@ -31,7 +31,7 @@ control is a mock or input library.
 ## Conceptual Overview
 
 ```{r parclip-concept, echo=FALSE, out.width="86%", fig.cap="PAR-CLIP concept and its MIRAGE parameterization."}
-knitr::include_graphics("figures/PARCLIP_concept.png")
+knitr::include_graphics("figures/PARCLIP_concept.svg")
 ```
 
 ## The Example Data
