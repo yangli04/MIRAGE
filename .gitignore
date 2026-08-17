@@ -1,0 +1,29 @@
+# Local instructions and scratch files
+CLAUDE.md
+.claude/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.Rcheck/
+*.Rcheck/
+Rplots.pdf
+*.Rout
+*.tar.gz
+*.tgz
+
+# Rendered vignettes are built by R CMD build / pkgdown
+doc/
+inst/doc/
+Meta/
+vignettes/*.html
+vignettes/*.R
+vignettes/*_files/
+vignettes/*_cache/
+
+# OS
+.DS_Store
+Thumbs.db

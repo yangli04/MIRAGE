@@ -1,0 +1,26 @@
+url: https://yangli04.github.io/MIRAGE/
+template:
+  bootstrap: 5
+
+navbar:
+  structure:
+    left: [intro, reference, articles]
+    right: [github]
+
+articles:
+- title: Tutorials
+  navbar: Tutorials
+  contents:
+  - mirage-bacs
+  - mirage-rna-structure
+  - mirage-par-clip
+
+reference:
+- title: MIRAGE inference
+  contents:
+  - estimate_inference_with_empirical
+  - estimate_inference_with_prior
+  - compute_prior
+- title: Diagnostics
+  contents:
+  - plot_signal_scatter

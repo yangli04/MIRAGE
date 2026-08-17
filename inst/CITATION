@@ -1,0 +1,18 @@
+bibentry(
+  bibtype = "Manual",
+  title = "MIRAGE: Mutation-Encoded Inference of RNA Activity",
+  author = c(
+    person(given = "Yang", family = "Li"),
+    person(given = "Mengjie", family = "Chen"),
+    person(given = "Shun", family = "Liu")
+  ),
+  year = "2026",
+  note = "R package version 0.6.0",
+  url = "https://github.com/yangli04/MIRAGE",
+  textVersion = paste(
+    "Yang Li et al. (2026).",
+    "MIRAGE: Mutation-Encoded Inference of RNA Activity.",
+    "R package version 0.6.0.",
+    "https://github.com/yangli04/MIRAGE"
+  )
+)

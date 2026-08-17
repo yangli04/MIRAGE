@@ -1,0 +1,42 @@
+Package: MIRAGE
+Type: Package
+Title: Mutation-Encoded Inference of RNA Activity
+Version: 0.6.0
+Authors@R:
+    c(person(given = "Mengjie",
+             family = "Chen",
+             role = c("aut"),
+             email = "mengjiechen@uchicago.edu"),
+      person(given = "Yang",
+             family = "Li",
+             role = c("aut", "cre"),
+             email = "yliuchicago@uchicago.edu"),
+      person(given = "Shun",
+             family = "Liu",
+             role = c("aut"),
+             email = "shunliu@uchicago.edu")
+     )
+Description: Estimates site-level RNA mutation or conversion signal from
+    matched treatment and control read-count tables. MIRAGE supports
+    motif-specific inference with sequence-context priors and motif-free
+    empirical inference for mutation-induction or conversion-based RNA
+    assays.
+URL: https://github.com/yangli04/MIRAGE, https://yangli04.github.io/MIRAGE/
+BugReports: https://github.com/yangli04/MIRAGE/issues
+Depends: R (>= 3.5.0), doParallel, dplyr
+Imports:
+    foreach,
+    parallel,
+    stats,
+    utils
+Suggests:
+    data.table,
+    ggplot2,
+    ggrastr,
+    knitr,
+    rmarkdown,
+    scales
+VignetteBuilder: knitr
+Encoding: UTF-8
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.0

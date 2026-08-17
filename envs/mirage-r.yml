@@ -1,0 +1,23 @@
+name: mirage-r
+channels:
+  - conda-forge
+dependencies:
+  - "r-base>=4.4,<4.6"
+  - r-data.table
+  - r-devtools
+  - r-doparallel
+  - r-dplyr
+  - r-foreach
+  - r-ggplot2
+  - r-ggrastr
+  - r-iterators
+  - r-knitr
+  - r-optparse
+  - r-patchwork
+  - r-pkgdown
+  - r-ragg
+  - r-remotes
+  - r-rmarkdown
+  - r-scales
+  - r-testthat
+  - r-yaml
