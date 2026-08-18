@@ -25,6 +25,22 @@ on a common, calibrated β scale with per-site false-discovery control.
 
 ![MIRAGE framework](man/figures/MIRAGE_principle_plot.png)
 
+## Two Implementations: R Package And Rust Binary
+
+MIRAGE is available in two interoperable implementations that read the same
+count table and produce the same per-site estimates:
+
+| | **MIRAGE** (this repository, R) | [**MIRAGE_fast**](https://github.com/yangli04/MIRAGE_fast) (Rust) |
+|---|---|---|
+| Best for | interactive analysis, tutorials, plotting, R/Bioconductor workflows | large tables (10⁵–10⁷ sites), pipelines (Snakemake/Nextflow), HPC batch jobs |
+| Interface | R functions returning data frames; `plot_signal_scatter()` | `mirage` command-line tool reading/writing TSV; Rust library |
+| Speed / memory | reference implementation | ~35–50× faster, ~2× less memory, numerically identical (≤ 1e-7) |
+| Install | `devtools::install_github("yangli04/MIRAGE")` | `git clone https://github.com/yangli04/MIRAGE_fast && cargo build --release` |
+
+Prototype in R and scale up with the Rust binary (or the reverse) without
+changing anything else in your workflow. The rest of this README and the
+tutorials describe the R package.
+
 ## Installation
 
 ### GitHub

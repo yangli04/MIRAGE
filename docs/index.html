@@ -67,6 +67,50 @@
 <img src="reference/figures/MIRAGE_principle_plot.png" alt="MIRAGE framework"><div class="figcaption">MIRAGE framework</div>
 </div>
 <div class="section level2">
+<h2 id="two-implementations-r-package-and-rust-binary">Two Implementations: R Package And Rust Binary<a class="anchor" aria-label="anchor" href="#two-implementations-r-package-and-rust-binary"></a>
+</h2>
+<p>MIRAGE is available in two interoperable implementations that read the same count table and produce the same per-site estimates:</p>
+<table class="table">
+<colgroup>
+<col width="33%">
+<col width="33%">
+<col width="33%">
+</colgroup>
+<thead><tr>
+<th></th>
+<th>
+<strong>MIRAGE</strong> (this repository, R)</th>
+<th>
+<a href="https://github.com/yangli04/MIRAGE_fast" class="external-link"><strong>MIRAGE_fast</strong></a> (Rust)</th>
+</tr></thead>
+<tbody>
+<tr>
+<td>Best for</td>
+<td>interactive analysis, tutorials, plotting, R/Bioconductor workflows</td>
+<td>large tables (10⁵–10⁷ sites), pipelines (Snakemake/Nextflow), HPC batch jobs</td>
+</tr>
+<tr>
+<td>Interface</td>
+<td>R functions returning data frames; <code><a href="reference/plot_signal_scatter.html">plot_signal_scatter()</a></code>
+</td>
+<td>
+<code>mirage</code> command-line tool reading/writing TSV; Rust library</td>
+</tr>
+<tr>
+<td>Speed / memory</td>
+<td>reference implementation</td>
+<td>~35–50× faster, ~2× less memory, numerically identical (≤ 1e-7)</td>
+</tr>
+<tr>
+<td>Install</td>
+<td><code>devtools::install_github("yangli04/MIRAGE")</code></td>
+<td><code>git clone https://github.com/yangli04/MIRAGE_fast &amp;&amp; cargo build --release</code></td>
+</tr>
+</tbody>
+</table>
+<p>Prototype in R and scale up with the Rust binary (or the reverse) without changing anything else in your workflow. The rest of this README and the tutorials describe the R package.</p>
+</div>
+<div class="section level2">
 <h2 id="installation">Installation<a class="anchor" aria-label="anchor" href="#installation"></a>
 </h2>
 <div class="section level3">
