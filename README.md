@@ -23,7 +23,7 @@ variation. MIRAGE models this mixture generatively and infers, for every site:
 Because one model spans all assays, otherwise incompatible readouts are placed
 on a common, calibrated β scale with per-site false-discovery control.
 
-![MIRAGE framework](man/figures/MIRAGE_principle_plot.svg)
+![MIRAGE framework](man/figures/MIRAGE_principle_plot.png)
 
 ## Installation
 

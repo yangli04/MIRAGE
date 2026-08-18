@@ -27,7 +27,7 @@ Because one model spans all assays, otherwise incompatible readouts are
 placed on a common, calibrated β scale with per-site false-discovery
 control.
 
-![MIRAGE framework](reference/figures/MIRAGE_principle_plot.svg)
+![MIRAGE framework](reference/figures/MIRAGE_principle_plot.png)
 
 MIRAGE framework
 

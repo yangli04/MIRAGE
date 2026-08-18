@@ -35,7 +35,7 @@ level without a synthetic calibration curve.
 ## Conceptual Overview
 
 ```{r bacs-concept, echo=FALSE, out.width="86%", fig.cap="BACS pseudouridine readout and its MIRAGE parameterization."}
-knitr::include_graphics("figures/BACS_concept.svg")
+knitr::include_graphics("figures/BACS_concept.png")
 ```
 
 ## The Example Data

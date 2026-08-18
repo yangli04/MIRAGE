@@ -30,7 +30,7 @@ corrected for background mutation, sequencing error, and allele mixing.
 ## Conceptual Overview
 
 ```{r shape-map-concept, echo=FALSE, out.width="86%", fig.cap="SHAPE-MaP structure-probing concept and its MIRAGE parameterization."}
-knitr::include_graphics("figures/SHAPE_MaP_concept.svg")
+knitr::include_graphics("figures/SHAPE_MaP_concept.png")
 ```
 
 ## The Example Data

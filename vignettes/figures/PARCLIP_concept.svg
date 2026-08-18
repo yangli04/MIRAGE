@@ -172,39 +172,39 @@
   <text class="cls-24" transform="translate(134.59 164.65)"><tspan x="0" y="0">fraction of T sites</tspan><tspan x="-2.7" y="6.12">that are crosslinked</tspan></text>
   <text class="cls-15" transform="translate(192.64 164.65)"><tspan class="cls-47"><tspan x="0" y="0">conversion rate (crosslinked), </tspan></tspan><tspan class="cls-28"><tspan x="26.94" y="6.12">higher</tspan></tspan></text>
   <text class="cls-15" transform="translate(271.59 164.31)"><tspan class="cls-47"><tspan x="0" y="0">conversion rate (background), </tspan></tspan><tspan class="cls-49"><tspan x="28.51" y="6.12">lower</tspan></tspan></text>
-  <text class="cls-45" transform="translate(303.04 154.65)"><tspan x="0" y="0">γ</tspan></text>
-  <text class="cls-45" transform="translate(306.19 157.2) scale(.58)"><tspan x="0" y="0">2</tspan></text>
-  <text class="cls-45" transform="translate(184.46 112.62)"><tspan x="0" y="0">γ</tspan></text>
-  <text class="cls-45" transform="translate(187.61 115.17) scale(.58)"><tspan x="0" y="0">2</tspan></text>
-  <text class="cls-44" transform="translate(223.55 154.65)"><tspan x="0" y="0">γ</tspan></text>
-  <text class="cls-44" transform="translate(226.7 157.2) scale(.58)"><tspan x="0" y="0">1</tspan></text>
-  <text class="cls-44" transform="translate(280.45 111.71)"><tspan x="0" y="0">γ</tspan></text>
-  <text class="cls-44" transform="translate(283.6 114.26) scale(.58)"><tspan x="0" y="0">1</tspan></text>
-  <text class="cls-32" transform="translate(125.99 110.52)"><tspan x="0" y="0">b</tspan></text>
+  <text class="cls-45" transform="translate(303.04 154.65)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">γ</tspan></text>
+  <text class="cls-45" transform="translate(306.19 157.2) scale(.58)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">2</tspan></text>
+  <text class="cls-45" transform="translate(184.46 112.62)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">γ</tspan></text>
+  <text class="cls-45" transform="translate(187.61 115.17) scale(.58)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">2</tspan></text>
+  <text class="cls-44" transform="translate(223.55 154.65)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">γ</tspan></text>
+  <text class="cls-44" transform="translate(226.7 157.2) scale(.58)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-44" transform="translate(280.45 111.71)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">γ</tspan></text>
+  <text class="cls-44" transform="translate(283.6 114.26) scale(.58)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">1</tspan></text>
+  <text class="cls-32" transform="translate(125.99 110.52)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">β</tspan></text>
   <text class="cls-31" transform="translate(128.78 112.21) scale(.58)"><tspan x="0" y="0">i</tspan></text>
-  <text class="cls-32" transform="translate(73.28 94.77)"><tspan x="0" y="0">b</tspan></text>
+  <text class="cls-32" transform="translate(73.28 94.77)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">β</tspan></text>
   <text class="cls-31" transform="translate(76.07 96.47) scale(.58)"><tspan x="0" y="0">i</tspan></text>
-  <text class="cls-30" transform="translate(152.11 154.65)"><tspan x="0" y="0">b</tspan></text>
+  <text class="cls-30" transform="translate(152.11 154.65)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">β</tspan></text>
   <text class="cls-29" transform="translate(156.31 157.2) scale(.58)"><tspan x="0" y="0">i</tspan></text>
-  <text class="cls-38" transform="translate(123.66 121.82)"><tspan x="0" y="0">1-b</tspan></text>
+  <text class="cls-38" transform="translate(123.66 121.82)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">1-β</tspan></text>
   <text class="cls-35" transform="translate(131.81 123.51) scale(.58)"><tspan x="0" y="0">i</tspan></text>
   <text class="cls-48" transform="translate(127.1 58.13) rotate(-180) scale(1.49 1)"><tspan x="0" y="0">{</tspan></text>
   <text class="cls-48" transform="translate(127.1 69.31) rotate(-180) scale(1.49 1)"><tspan x="0" y="0">{</tspan></text>
-  <text class="cls-42" transform="translate(128.84 62.08)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-42" transform="translate(128.84 62.08)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">κ</tspan></text>
   <text class="cls-40" transform="translate(132.03 64.02) scale(.58)"><tspan x="0" y="0">i</tspan></text>
-  <text class="cls-46" transform="translate(132.79 62.08)"><tspan x="0" y="0"> </tspan></text>
-  <text class="cls-37" transform="translate(127.88 73.29)"><tspan x="0" y="0">1-</tspan></text>
-  <text class="cls-42" transform="translate(133.23 73.29)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-46" transform="translate(132.79 62.08)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-37" transform="translate(127.88 73.29)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">1-</tspan></text>
+  <text class="cls-42" transform="translate(133.23 73.29)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">κ</tspan></text>
   <text class="cls-40" transform="translate(136.42 75.23) scale(.58)"><tspan x="0" y="0">i</tspan></text>
-  <text class="cls-46" transform="translate(137.18 73.29)"><tspan x="0" y="0"> </tspan></text>
-  <text class="cls-38" transform="translate(71.13 134.6)"><tspan x="0" y="0">1-b</tspan></text>
+  <text class="cls-46" transform="translate(137.18 73.29)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-38" transform="translate(71.13 134.6)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">1-β</tspan></text>
   <text class="cls-35" transform="translate(79.29 136.3) scale(.58)"><tspan x="0" y="0">i</tspan></text>
-  <text class="cls-43" transform="translate(90.91 154.65)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-43" transform="translate(90.91 154.65)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">κ</tspan></text>
   <text class="cls-39" transform="translate(95.11 157.2) scale(.58)"><tspan x="0" y="0">i</tspan></text>
-  <text class="cls-43" transform="translate(96.1 154.65)"><tspan x="0" y="0"> </tspan></text>
-  <text class="cls-42" transform="translate(73.47 45.38)"><tspan x="0" y="0">k</tspan></text>
+  <text class="cls-43" transform="translate(96.1 154.65)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-42" transform="translate(73.47 45.38)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">κ</tspan></text>
   <text class="cls-40" transform="translate(76.66 47.32) scale(.58)"><tspan x="0" y="0">i</tspan></text>
-  <text class="cls-46" transform="translate(77.42 45.38)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-46" transform="translate(77.42 45.38)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0"> </tspan></text>
   <g>
     <text class="cls-18" transform="translate(73.13 122.2)"><tspan x="0" y="0">U</tspan></text>
     <circle class="cls-12" cx="74.61" cy="120.66" r="2.95"/>
@@ -246,7 +246,7 @@
     <circle class="cls-14" cx="115.21" cy="109" r="2.95"/>
   </g>
   <text class="cls-23" transform="translate(150.64 93.63)"><tspan x="0" y="0">non-crosslinked (background) U site</tspan><tspan x="23.39" y="6.12">(</tspan></text>
-  <text class="cls-38" transform="translate(175.74 99.75)"><tspan x="0" y="0">1-b</tspan></text>
+  <text class="cls-38" transform="translate(175.74 99.75)" style="font-family:Helvetica,Arial,sans-serif"><tspan x="0" y="0">1-β</tspan></text>
   <text class="cls-35" transform="translate(183.89 101.45) scale(.58)"><tspan x="0" y="0">i</tspan></text>
   <text class="cls-23" transform="translate(184.55 99.75)"><tspan x="0" y="0" xml:space="preserve"> of U sites)</tspan></text>
   <g>

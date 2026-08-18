@@ -21,7 +21,7 @@ modification level without a synthetic calibration curve.
 ## Conceptual Overview
 
 ![BACS pseudouridine readout and its MIRAGE
-parameterization.](figures/BACS_concept.svg)
+parameterization.](figures/BACS_concept.png)
 
 BACS pseudouridine readout and its MIRAGE parameterization.
 
