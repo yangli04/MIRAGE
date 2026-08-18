@@ -1,7 +1,7 @@
 # MIRAGE
 
 [![release](https://img.shields.io/badge/release-v0.6.0-orange.svg)](https://github.com/yangli04/MIRAGE)
-[![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yangli04/MIRAGE/blob/main/LICENSE.md)
+[![license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yangli04/MIRAGE/blob/main/LICENSE)
 
 `MIRAGE` (Mutation-encoded Inference of RNA Activity via Generative
 Effects) is an R package for estimating site-level RNA activity from
@@ -236,4 +236,4 @@ If you use MIRAGE, please cite the MIRAGE manuscript and the package
 
 All source code and software in this repository are made available under
 the terms of the [MIT
-license](https://yangli04.github.io/MIRAGE/LICENSE.md).
+license](https://yangli04.github.io/MIRAGE/LICENSE).

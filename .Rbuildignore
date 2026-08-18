@@ -7,7 +7,6 @@
 ^docs$
 ^pkgdown$
 ^envs$
-^LICENSE\.md$
 ^.*\.Rproj$
 ^\.Rproj\.user$
 ^README\.md$
